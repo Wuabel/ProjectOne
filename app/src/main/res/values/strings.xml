@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+
+    <string name="Button_GM">GoodMorning!</string>
+    <string name="Button_GN">GoodNight!</string>
+    <string name="Button_WU">WakeUp!</string>
+    <string name="Button_MD">MDAY!</string>
+
+    <string name="button_GoodNight">GoodNight</string>>
+    <string name="button_GoodMorning">GoodMorning</string>>
+    <string name="button_WakeUp">WakeUp</string>>
+    <string name="button_MDay">MDay</string>
+    <string name="title_activity_mday">MdayActivity</string>>
+
+</resources>
