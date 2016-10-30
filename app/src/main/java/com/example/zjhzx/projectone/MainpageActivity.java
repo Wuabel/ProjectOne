@@ -6,7 +6,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-
+/*
+注释测试一下
+*/
 public class MainpageActivity extends AppCompatActivity {
     private static final String TAG = "MainpageActivity";
 
